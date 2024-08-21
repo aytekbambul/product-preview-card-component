@@ -1,0 +1,1 @@
+![product-ss](/imagess/product-preview-card-component-ss.png)
